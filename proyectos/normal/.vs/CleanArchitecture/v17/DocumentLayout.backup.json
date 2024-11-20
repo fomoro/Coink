@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F608FA6-6326-41AE-A652-42BB914EC845}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\source\\repos\\cleanarchitecture\\infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F608FA6-6326-41AE-A652-42BB914EC845}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C949B-BCAC-4AFE-B1D1-7899844A78E8}|Application\\Application.csproj|c:\\users\\user\\source\\repos\\cleanarchitecture\\application\\mapping\\applicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C949B-BCAC-4AFE-B1D1-7899844A78E8}|Application\\Application.csproj|solutionrelative:application\\mapping\\applicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C949B-BCAC-4AFE-B1D1-7899844A78E8}|Application\\Application.csproj|c:\\users\\user\\source\\repos\\cleanarchitecture\\application\\usuarios\\queries\\getusuariobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C949B-BCAC-4AFE-B1D1-7899844A78E8}|Application\\Application.csproj|solutionrelative:application\\usuarios\\queries\\getusuariobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C949B-BCAC-4AFE-B1D1-7899844A78E8}|Application\\Application.csproj|c:\\users\\user\\source\\repos\\cleanarchitecture\\application\\usuarios\\commands\\createusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C949B-BCAC-4AFE-B1D1-7899844A78E8}|Application\\Application.csproj|solutionrelative:application\\usuarios\\commands\\createusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C949B-BCAC-4AFE-B1D1-7899844A78E8}|Application\\Application.csproj|c:\\users\\user\\source\\repos\\cleanarchitecture\\application\\usuarios\\queries\\getusuariobyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C949B-BCAC-4AFE-B1D1-7899844A78E8}|Application\\Application.csproj|solutionrelative:application\\usuarios\\queries\\getusuariobyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Application\\Mapping\\ApplicationProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\ApplicationProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Application\\Mapping\\ApplicationProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\ApplicationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:36:33.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Infrastructure\\Repositories\\UsuarioRepository.cs*",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UsuarioRepository.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:35:29.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetUsuarioByIdQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Application\\Usuarios\\Queries\\GetUsuarioByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Usuarios\\Queries\\GetUsuarioByIdQueryValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Application\\Usuarios\\Queries\\GetUsuarioByIdQueryValidator.cs",
+              "RelativeToolTip": "Application\\Usuarios\\Queries\\GetUsuarioByIdQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:35:18.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetUsuarioByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Application\\Usuarios\\Queries\\GetUsuarioByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Usuarios\\Queries\\GetUsuarioByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Application\\Usuarios\\Queries\\GetUsuarioByIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Usuarios\\Queries\\GetUsuarioByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:35:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUsuarioCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Application\\Usuarios\\Commands\\CreateUsuarioCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Usuarios\\Commands\\CreateUsuarioCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CleanArchitecture\\Application\\Usuarios\\Commands\\CreateUsuarioCommandHandler.cs",
+              "RelativeToolTip": "Application\\Usuarios\\Commands\\CreateUsuarioCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:35:12.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
